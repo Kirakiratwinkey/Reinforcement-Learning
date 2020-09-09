@@ -9,7 +9,7 @@
 Have you heard about the amazing results achieved by [Deepmind with AlphaGo Zero](https://www.youtube.com/watch?time_continue=24&v=tXlM99xPQC8) and by [OpenAI in Dota 2](https://www.youtube.com/watch?v=l92J1UvHf6M)? It's all about deep neural networks and reinforcement learning. Do you want to know more about it?  
 This is the right opportunity for you to finally learn Deep RL and use it on new and exciting projects and applications.  
 
-Here you'll find an in depth introduction to these algorithms. Among which you'll learn q learning, deep q learning, PPO, actor critic, and implement them using Python and PyTorch.
+Here you find an in depth introduction to these algorithms. Among which you'll learn q learning, deep q learning, PPO, actor critic, and implement them using Python and PyTorch.
 
 > The ultimate aim is to use these general-purpose technologies and apply them to all sorts of important real world problems.
 > **Demis Hassabis**
